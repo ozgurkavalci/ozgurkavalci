@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ozgurkavalci
+- 👋 Hi, I’m Ozgur Kavalci
 - 👀 I am interested in every aspect of programming but especially in game development.
 - 🌱 I’m currently learning Unity.
 - 📫 How to reach me ozgurkavalci@gmail.com
